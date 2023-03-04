@@ -7,9 +7,9 @@
 ## 📌 Skills
 
 - HTML
-- CSS (Preprocessor SCSS)
+- CSS (SCSS)
 - JavaScript Basics
-- React JS
+- React JS Basics
 - Git
 - Figma
 - VS Code
@@ -30,19 +30,17 @@ Object.entries(user) = [ ["name","Alex"], ["age",30] ]
 ```
 
 ## 💬 Languages
-
-- **English**: A2 <br>
 - **Russian**: Native
+- **English**: A2
+
 
 ## 👩🏼‍🎓 Education
 
-- **Bachelor** of civil Law
-  [Udmurt state university](https://udsu.ru/) - Izhevsk, Russia <br>
+- **University:** Udmurt state university, civil law, Izhevsk, Russia 
 
-- **RS School** JS/Frontend Development Course
-  [RS School](https://rs.school/index.html)
+- **Courses:** 
+  + [RS School](https://rs.school/index.html)
+  
+  + [Udemy JavaScript course](https://www.udemy.com/)
 
-- **Udemy** JavaScript course https://www.udemy.com/
-
-- **Udemy** React JS course https://www.udemy.com/
-
+  + [Udemy React JS course](https://www.udemy.com/)
