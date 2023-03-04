@@ -39,10 +39,8 @@ Object.entries(user) = [ ["name","Alex"], ["age",30] ]
 - **Bachelor** of civil Law
   [Udmurt state university](https://udsu.ru/) - Izhevsk, Russia <br>
 
-- **Coding course** self-study of frontend development
+- **RS School** JS/Frontend Development Course
   [RS School](https://rs.school/index.html)
-
-- **Learn JavaScript** https://learn.javascript.ru/
 
 - **Udemy** JavaScript course https://www.udemy.com/
 
